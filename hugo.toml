@@ -1,0 +1,4 @@
+baseURL = 'https://duatech.io/'
+languageCode = 'en-us'
+title = 'duatech'
+theme = 'ananke'
